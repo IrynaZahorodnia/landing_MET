@@ -1,0 +1,11 @@
+.footer {
+  height: 180px;
+  background: no-repeat center/cover url(../../images/footer.webp);
+  position: sticky;
+  bottom: 0;
+  z-index: -1;
+
+  @include on-tablet {
+    height: 359px;
+  }
+}
