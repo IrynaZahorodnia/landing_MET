@@ -1,4 +1,4 @@
-# KAT VR
+# THE MET
 This project implements landing page for The Metropolitan Museum of Art.
 
 ## Demo link
